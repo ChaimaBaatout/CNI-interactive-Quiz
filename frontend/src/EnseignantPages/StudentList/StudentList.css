@@ -1,0 +1,33 @@
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 5px 5px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 5%;
+  }
+  
+  /* On mouse-over */
+  .btn:hover {background: #eee;}
+  
+  .success {color: green;}
+  .info {color: dodgerblue;}
+  .warning {color: orange;}
+  .danger {color: red;}
+  .default {color: black;}
+  .row {
+    display: flex;
+    padding: auto;
+  }
+  table {
+    margin-left: 30%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid #ddd;
+  }
+  .row{
+    flex-direction: row;
+  }
+  

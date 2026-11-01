@@ -1,0 +1,56 @@
+{
+    "Enseignants":  [
+                        {
+                            "id":  "1",
+                            "First Name":  "Enseignants",
+                            "Last Name":  "Demo 1",
+                            "Email":  "enseignants1@example.com",
+                            "Password":  "demo-password"
+                        },
+                        {
+                            "id":  "2",
+                            "First Name":  "Enseignants",
+                            "Last Name":  "Demo 2",
+                            "Email":  "enseignants2@example.com",
+                            "Password":  "demo-password"
+                        },
+                        {
+                            "id":  "3",
+                            "First Name":  "Enseignants",
+                            "Last Name":  "Demo 3",
+                            "Email":  "enseignants3@example.com",
+                            "Password":  "demo-password"
+                        },
+                        {
+                            "First Name":  "Enseignants",
+                            "Last Name":  "Demo 4",
+                            "Email":  "enseignants4@example.com",
+                            "Password":  "demo-password",
+                            "id":  "xokuWqi"
+                        }
+                    ],
+    "Etudiant":  [
+                     {
+                         "id":  "1",
+                         "First Name":  "Etudiant",
+                         "Last Name":  "Demo 1",
+                         "Email":  "etudiant1@example.com",
+                         "Password":  "demo-password"
+                     },
+                     {
+                         "First Name":  "Etudiant",
+                         "Last Name":  "Demo 2",
+                         "Password":  "demo-password",
+                         "id":  "FB4aVuq",
+                         "Email":  "etudiant2@example.com"
+                     }
+                 ],
+    "Cours":  [
+                  {
+                      "id":  "1",
+                      "category":  "informatique",
+                      "titre":  "chapitre 1",
+                      "contenus":  "hsqlkjhdqhbcb bsqhbdjqhbdxbxwsnsnjs eznjfznfzpùkf"
+                  }
+              ]
+}

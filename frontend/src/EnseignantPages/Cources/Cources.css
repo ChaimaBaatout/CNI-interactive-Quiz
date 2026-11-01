@@ -1,0 +1,10 @@
+.row{
+    flex-direction: row;
+  }
+  table {
+    margin-left: 30%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid #ddd;
+  }
